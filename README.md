@@ -1,5 +1,5 @@
 # Find-UnusedD365FOLabels
-Finds unused F&amp;O labels.
+Finds unused F&amp;O labels by searching the code files themselves.  It does not rely on the cross reference because it may be outdated.
 
 ## Usage
 ```powershell
